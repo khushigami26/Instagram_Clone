@@ -186,6 +186,7 @@ See the socket handlers in [backend/socket/chatSocket.js](backend/socket/chatSoc
 
 ## Screenshots 🖼️
 
+![Notification](frontend/images/screenshot5.jpg)
 ![Login](frontend/images/screenshot1.jpg)
 
 ![Home Feed](frontend/images/screenshot2.jpg)
@@ -193,8 +194,6 @@ See the socket handlers in [backend/socket/chatSocket.js](backend/socket/chatSoc
 ![Chat](frontend/images/screenshot3.jpg)
 
 ![Profile](frontend/images/screenshot4.jpg)
-
-![Notification](frontend/images/screenshot5.jpg)
 
 ---
 
