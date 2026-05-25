@@ -188,23 +188,23 @@ See the socket handlers in [backend/socket/chatSocket.js](backend/socket/chatSoc
 
 Login
 
-![Login](frontend/images/screenshot1.png)
+![Login](frontend/images/screenshot1.jpg)
 
 Home / Feed
 
-![Home Feed](frontend/images/screenshot2.png)
+![Home Feed](frontend/images/screenshot2.jpg)
 
 Chat / Messages
 
-![Chat](frontend/images/screenshot3.png)
+![Chat](frontend/images/screenshot3.jpg)
 
 Profile Page
 
-![Profile](frontend/images/screenshot4.png)
+![Profile](frontend/images/screenshot4.jpg)
 
 Notification
 
-![Notification](frontend/images/screenshot5.png)
+![Notification](frontend/images/screenshot5.jpg)
 
 ---
 
