@@ -68,7 +68,7 @@ Server (Express + Socket.IO) <----> MongoDB (Mongoose)
 
 ## Project Structure 📁
 
-```
+````
 # Bubble Chat — Instagram Clone App 🚀
 
 [![Project Status](https://img.shields.io/badge/status-production-brightgreen)](https://github.com/khushigami26/Instagram_Clone)
@@ -103,103 +103,7 @@ Server (Express + Socket.IO) <----> MongoDB (Mongoose)
 
 ---
 
-## Project Overview ✨
 
-Bubble Chat is a polished, enterprise-style Instagram-inspired social platform. It supports JWT authentication, robust user profiles, dedicated post and story workflows, follow requests, notifications, and a production-ready real-time chat powered by Socket.IO.
-
-This repository contains a lightweight, mobile-first frontend (HTML/CSS/Vanilla JS) and a Node.js + Express API backed by MongoDB (Mongoose).
-
----
-
-## Features ✅
-
-| Feature | Description |
-|---|---|
-| 🔐 JWT Authentication | Secure login/register flows with token-based auth |
-| 🧑‍🤝‍🧑 User Profiles | Avatars, bios, and editable profile data |
-| ✏️ Posts CRUD | Create, edit and delete posts with media uploads |
-| ❤️ Likes | Like / unlike posts with immediate UI feedback |
-| 📸 Stories | Temporary stories with 24-hour expiry |
-| 🔔 Notifications | In-app notifications for activity and requests |
-| 🤝 Follow Requests | Request/accept follow system for private accounts |
-| 💬 Real-time Chat | Socket.IO powered 1:1 and group messaging |
-| 📱 Responsive UI | Mobile-first layout with bottom navigation and modals |
-
----
-
-## Tech Stack 🧰
-
-### Frontend
-
-- HTML5 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)]
-- CSS3 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)]
-- Vanilla JavaScript [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)]
-
-Files: [frontend](frontend/) — includes mobile-first HTML pages, styles, and client-side JS.
-
-### Backend
-
-- Node.js [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)]
-- Express.js [![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)]
-- MongoDB + Mongoose [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)]
-- JWT for auth [![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white)]
-- Socket.IO [![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)]
-- Multer (file uploads) [![Multer](https://img.shields.io/badge/Multer-ff69b4)]
-- Bcrypt (password hashing) [![Bcrypt](https://img.shields.io/badge/Bcrypt-6f42c1)]
-
-Key backend files and folders: [backend/server.js](backend/server.js), [backend/routes](backend/routes), [backend/models](backend/models), [backend/socket](backend/socket)
-
----
-
-## System Architecture 🏗️
-
-High-level flow:
-
-```
-
-Client (browser) <----> Frontend (HTML/CSS/JS)
-| |
-| Socket.IO (real-time) | REST API calls (fetch / XHR)
-v v
-Server (Express + Socket.IO) <----> MongoDB (Mongoose)
-
-```
-
-- Authentication: JWT tokens (stateless) for API and Socket identification.
-- Media: Uploaded via Multer to `uploads/` (serve static via Express).
-- Real-time: Socket.IO handles presence, typing indicators, and message events.
-
----
-
-## Project Structure 📁
-
-```
-
-/backend
-├─ config/ # DB & configuration helpers
-├─ middleware/ # auth middleware, error handling
-├─ models/ # Mongoose schemas (User, Post, Chat...)
-├─ routes/ # Express route handlers (auth, posts, users, chat)
-├─ socket/ # Socket.IO event handlers
-└─ server.js # App entrypoint & Socket.IO setup
-
-/frontend
-├─ css/ # Stylesheets (mobile-first, components)
-├─ js/ # Vanilla JS controllers & socket client
-├─ images/ # Static images and screenshot placeholders
-└─ \*.html # Pages: index.html, home.html, profile.html...
-
-uploads/ # Uploaded user media (gitignored)
-README.md # Project documentation
-package.json # Backend dependencies & scripts
-
-````
-
-Notes:
-- `uploads/` is excluded from the repository via `.gitignore` to avoid committing user media.
-- The `socket/` folder implements chat logic and event authorization.
-
----
 
 ## Installation & Setup ⚙️
 
