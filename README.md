@@ -188,23 +188,23 @@ See the socket handlers in [backend/socket/chatSocket.js](backend/socket/chatSoc
 
 Login
 
-![Login](https://raw.githubusercontent.com/khushigami26/Instagram_Clone/main/frontend/images/screenshot1.png)
+![Login](frontend/images/screenshot1.png)
 
 Home / Feed
 
-![Home Feed](https://raw.githubusercontent.com/khushigami26/Instagram_Clone/main/frontend/images/screenshot2.png)
+![Home Feed](frontend/images/screenshot2.png)
 
 Chat / Messages
 
-![Chat](https://raw.githubusercontent.com/khushigami26/Instagram_Clone/main/frontend/images/screenshot3.png)
+![Chat](frontend/images/screenshot3.png)
 
 Profile Page
 
-![Profile](https://raw.githubusercontent.com/khushigami26/Instagram_Clone/main/frontend/images/screenshot4.png)
+![Profile](frontend/images/screenshot4.png)
 
 Notification
 
-![Notification](https://raw.githubusercontent.com/khushigami26/Instagram_Clone/main/frontend/images/screenshot5.png)
+![Notification](frontend/images/screenshot5.png)
 
 ---
 
