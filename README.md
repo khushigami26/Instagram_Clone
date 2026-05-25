@@ -186,23 +186,13 @@ See the socket handlers in [backend/socket/chatSocket.js](backend/socket/chatSoc
 
 ## Screenshots 🖼️
 
-Login 
-
 ![Login](frontend/images/screenshot1.jpg)
-
-Home / Feed
 
 ![Home Feed](frontend/images/screenshot2.jpg)
 
-Chat / Messages
-
 ![Chat](frontend/images/screenshot3.jpg)
 
-Profile Page
-
 ![Profile](frontend/images/screenshot4.jpg)
-
-Notification
 
 ![Notification](frontend/images/screenshot5.jpg)
 
