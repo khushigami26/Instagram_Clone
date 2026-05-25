@@ -186,22 +186,27 @@ See the socket handlers in [backend/socket/chatSocket.js](backend/socket/chatSoc
 
 ## Screenshots 🖼️
 
-> Replace these placeholders with actual exported images in `frontend/images/`.
-
 <details>
 <summary>Click to expand screenshots</summary>
+Login
+
+![Login](frontend/images/screenshot1.png)
 
 Home / Feed
 
-![Home Feed](frontend/images/screenshot-home.png)
-
-Profile Page
-
-![Profile](frontend/images/screenshot-profile.png)
+![Home Feed](frontend/images/screenshot2.png)
 
 Chat / Messages
 
-![Chat](frontend/images/screenshot-chat.png)
+![Chat](frontend/images/screenshot3.png)
+
+Profile Page
+
+![Profile](frontend/images/screenshot4.png)
+
+Notification
+
+![Chat](frontend/images/screenshot5.png)
 
 </details>
 
