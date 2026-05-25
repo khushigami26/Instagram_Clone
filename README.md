@@ -186,7 +186,7 @@ See the socket handlers in [backend/socket/chatSocket.js](backend/socket/chatSoc
 
 ## Screenshots 🖼️
 
-Login
+Login 
 
 ![Login](frontend/images/screenshot1.jpg)
 
