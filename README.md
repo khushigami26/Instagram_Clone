@@ -186,29 +186,25 @@ See the socket handlers in [backend/socket/chatSocket.js](backend/socket/chatSoc
 
 ## Screenshots 🖼️
 
-<details>
-<summary>Click to expand screenshots</summary>
 Login
 
-![Login](frontend/images/screenshot1.png)
+![Login](https://raw.githubusercontent.com/khushigami26/Instagram_Clone/main/frontend/images/screenshot1.png)
 
 Home / Feed
 
-![Home Feed](frontend/images/screenshot2.png)
+![Home Feed](https://raw.githubusercontent.com/khushigami26/Instagram_Clone/main/frontend/images/screenshot2.png)
 
 Chat / Messages
 
-![Chat](frontend/images/screenshot3.png)
+![Chat](https://raw.githubusercontent.com/khushigami26/Instagram_Clone/main/frontend/images/screenshot3.png)
 
 Profile Page
 
-![Profile](frontend/images/screenshot4.png)
+![Profile](https://raw.githubusercontent.com/khushigami26/Instagram_Clone/main/frontend/images/screenshot4.png)
 
 Notification
 
-![Chat](frontend/images/screenshot5.png)
-
-</details>
+![Notification](https://raw.githubusercontent.com/khushigami26/Instagram_Clone/main/frontend/images/screenshot5.png)
 
 ---
 
